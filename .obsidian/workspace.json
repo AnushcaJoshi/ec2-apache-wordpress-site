@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6723d58fca56291d",
@@ -148,6 +148,10 @@
   },
   "active": "8bf5e5b6abbde766",
   "lastOpenFiles": [
+    "images/4.png",
+    "README.md",
+    "images/3.png",
+    "images/2.png",
     "images/1.png",
     "images"
   ]
