@@ -26,13 +26,13 @@ This project involves hosting a WordPress website on Amazon Web Services (AWS) u
 
 1. Logged into the AWS Account
 2. Clicked on EC2 Dashboard
-3. Created an EC2 instance, with allowing network traffic![[1.png]]
-4. Associated Elastic IP Address with EC2 Instance (To make sure that whenever or whoever wants to access the web app, it is always available on the same IP)![[2.png]]
+3. Created an EC2 instance, with allowing network traffic![[1.png]](https://github.com/AnushcaJoshi/ec2-apache-wordpress-site/blob/main/images/1.png)
+4. Associated Elastic IP Address with EC2 Instance (To make sure that whenever or whoever wants to access the web app, it is always available on the same IP)![[2.png]](https://github.com/AnushcaJoshi/ec2-apache-wordpress-site/blob/main/images/2.png)
 ### Step 2 (SSH into EC2 Instance)
 
 1. I have used MobaXterm for connecting to EC2 instance through SSH
 2. In MobaXterm under the SSH tab, entered IP address and user name.
-3. Then in Advanced tab, used private key to connect![[3.png]]
+3. Then in Advanced tab, used private key to connect![[3.png]](https://github.com/AnushcaJoshi/ec2-apache-wordpress-site/blob/main/images/3.png)
 
 ### Step 3 (Update System and Installing Required Software's)
 
@@ -48,7 +48,7 @@ This project involves hosting a WordPress website on Amazon Web Services (AWS) u
     sudo apt install apache2
     ```
     
-    To check weather the Apache Server is running or not, I have tried opening a web browser and in URL typed http://ip_address_of_ec2_instance ![[4.png]]
+    To check weather the Apache Server is running or not, I have tried opening a web browser and in URL typed http://ip_address_of_ec2_instance ![[4.png]](https://github.com/AnushcaJoshi/ec2-apache-wordpress-site/blob/main/images/4.png)
     
 3. Installation of WordPress
     
