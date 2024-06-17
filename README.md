@@ -18,6 +18,7 @@ Hosting a WordPress Web Application on AWS EC2 Service using Apache Server.
 
 
 ### - Steps Involved:
+[[1.png]]
 1. Set Up Virtual Environment:
    - Used AWS EC2 to create a virtual server.
 
