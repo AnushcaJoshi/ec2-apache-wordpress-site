@@ -55,4 +55,9 @@ Create a virtual environment to host a website.
 
 
 
+### - Output: 
+Virtually Hosted website
+![Screenshot (856)](https://github.com/AnushcaJoshi/ec2-apache-wordpress-site/assets/111639602/4b28984e-877b-42ea-b670-73a442af55fb)
+
+
 
