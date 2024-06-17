@@ -1,5 +1,9 @@
 # cloud-web-hosting-project
 
+### Link: 
+This video contains the step-by-step process of how I've hosted a WordPress website on AWS EC2 using an Apache server. 
+https://drive.google.com/file/d/1s7AVgDR-Iv9IUuEe_vPSFTWuvEXJfgDw/view?usp=sharing
+
 ## Project Overview:
 ### - Goal: 
 Create a virtual environment to host a website.
