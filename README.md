@@ -6,13 +6,15 @@ https://drive.google.com/file/d/1s7AVgDR-Iv9IUuEe_vPSFTWuvEXJfgDw/view?usp=shari
 
 ## Project Overview:
 ### - Goal: 
-Create a virtual environment to host a website.
+Hosting a WordPress Web Application on AWS EC2 Service using Apache Server.
+
 ### - Technologies Used: 
-#### AWS EC2
-#### SSH (MobaXterm)
-#### Linux OS
+#### AWS EC2 (Ubuntu)
+#### Elastic IP (AWS) 
+#### SSH Client: MobaXterm 
 #### Apache server
-#### WordPress.
+#### MySQL Server
+#### WordPress
 
 
 ### - Steps Involved:
